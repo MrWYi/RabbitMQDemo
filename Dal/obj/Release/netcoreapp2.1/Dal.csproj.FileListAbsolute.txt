@@ -1,0 +1,9 @@
+D:\Program\DNACompareEngine\GeneCompare\Dal\bin\Release\netcoreapp2.1\MongoLib.dll
+D:\Program\DNACompareEngine\GeneCompare\Dal\bin\Release\netcoreapp2.1\MongoLib.pdb
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.csprojAssemblyReference.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.AssemblyInfoInputs.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.AssemblyInfo.cs
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.csproj.CoreCompileInputs.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.csproj.CopyComplete
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.dll
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Release\netcoreapp2.1\Dal.pdb

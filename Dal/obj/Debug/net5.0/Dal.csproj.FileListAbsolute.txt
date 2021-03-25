@@ -1,0 +1,11 @@
+D:\Program\DNACompareEngine\GeneCompare\Dal\bin\Debug\net5.0\MongoLib.dll
+D:\Program\DNACompareEngine\GeneCompare\Dal\bin\Debug\net5.0\MongoLib.pdb
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.csprojAssemblyReference.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.dll
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\ref\Dal.dll
+D:\Program\DNACompareEngine\GeneCompare\Dal\obj\Debug\net5.0\Dal.pdb

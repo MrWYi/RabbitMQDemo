@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MQTest.deps.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MQTest.runtimeconfig.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MQTest.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MQTest.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MQTest.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\Dal.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MongoLib.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\Dal.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest\bin\Debug\netcoreapp2.1\MongoLib.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest\obj\Debug\netcoreapp2.1\MQTest.csproj.CopyComplete

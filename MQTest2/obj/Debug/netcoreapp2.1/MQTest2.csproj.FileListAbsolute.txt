@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\bin\Debug\netcoreapp2.1\MQTest2.deps.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\bin\Debug\netcoreapp2.1\MQTest2.runtimeconfig.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\bin\Debug\netcoreapp2.1\MQTest2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\bin\Debug\netcoreapp2.1\MQTest2.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\bin\Debug\netcoreapp2.1\MQTest2.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.dll
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.pdb
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SyncDB\MQTest2\obj\Debug\netcoreapp2.1\MQTest2.csprojAssemblyReference.cache
